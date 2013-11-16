@@ -1,0 +1,3 @@
+name = Rules List Contains
+description = Compare the text with a list of text
+core = 7.x
