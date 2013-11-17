@@ -3,7 +3,7 @@
 * Implements hook_rules_condition_info().
 *
 * Declare a new Rules condition : "Text contains any word in a list"
-* This condition is gonna be used as a way to match comment content and the list of suspect words
+* This condition is used  to match comment content and the list of words
 *
 * @return array the condition description
 */
